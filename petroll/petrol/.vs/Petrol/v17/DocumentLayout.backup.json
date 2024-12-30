@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\mehmet\\desktop\\kod\\c#\\petrol\\petrol\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\mehmet\\desktop\\kod\\c#\\petrol\\petrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\mehmet\\desktop\\kod\\c#\\petrol\\petrol\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\mehmet\\desktop\\kod\\c#\\petrol\\petrol\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\mehmet\\desktop\\kod\\c#\\petrol\\petrol\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\petrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\mehmet\\desktop\\kod\\c#\\petrol\\petrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\mehmet\\desktop\\kod\\c#\\petrol\\petrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form1.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form1.cs",
+              "RelativeToolTip": "Petrol\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:46:44.083Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form4.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form4.cs",
+              "ToolTip": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Petrol\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:07:01.632Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form1.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Petrol\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:51:44.136Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form3.Designer.cs",
+              "RelativeToolTip": "Petrol\\Form3.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAlwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:35:01.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form3.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form3.cs",
+              "ToolTip": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form3.cs",
+              "RelativeToolTip": "Petrol\\Form3.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:03:35.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form3.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form3.cs",
+              "ToolTip": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Petrol\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:03:32.193Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form2.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form2.cs",
+              "ToolTip": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Petrol\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:51:48.764Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form2.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form2.cs",
+              "ToolTip": "C:\\Users\\Mehmet\\Desktop\\kod\\c#\\Petrol\\Petrol\\Form2.cs",
+              "RelativeToolTip": "Petrol\\Form2.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAIwFwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:51:50.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
